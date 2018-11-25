@@ -3,7 +3,7 @@
 
 This algorithm prints mathematical expressions made by {1, 2, 3, ..., 9, -, +} that equal to 100 , in an ascending order (<b>NOT</b> <del>1 + 2 - 5 + 6 +79 - 843</del>) and obviously using each number just once (e.g. 123 - 45 - 67 + 89 = 100).
 
-I'd be so happy if you help me improving this algorithm by forking or opening issues. Good algorithm for beginners to practice programming.
+ 
 
 
 <b>توجه</b>: الگوریتم هنوز در دست تست است! مطمئن نیستم کامپیوتر خانگی اورفلو میشه یا نه
@@ -12,4 +12,3 @@ I'd be so happy if you help me improving this algorithm by forking or opening is
 
 123 - 45 - 67 + 89 = 100.
 
-خیلی خوشحال میشم اگر با فورک کردن یا مطرح کردن ایشو در بهتر کردن الگوریتم بهم کمک کنید. الگوریتم خیلی خوبی هم بعنوان تمرین برنامه نویسی هست که با زبان سی نوشته شده، شما می تونید با هر زبان دیگه ای بنویسید و پول ریکوئست بدید.
